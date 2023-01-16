@@ -1,11 +1,6 @@
 Atocs integration/staging tree
 ================================
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2023 Atocs Developers
-----------------
-
 Atocs is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
@@ -70,3 +65,7 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     ./atocs-qt_test
 
 # atocs
+-------
+Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2023 Atocs Developers
