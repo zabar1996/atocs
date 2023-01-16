@@ -4,7 +4,6 @@ Atocs integration/staging tree
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2023 Atocs Developers
-What is Atocs?
 ----------------
 
 Atocs is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
@@ -44,8 +43,8 @@ controversial.
 
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/atocs-project/atocs/tags) are created
-regularly to indicate new official, stable release versions of Atocs.
+completely stable. (https://github.com/litecoin-project/litecoin) are created
+regularly to indicate new official, stable release versions of Litecoin.
 
 Testing
 -------
