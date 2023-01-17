@@ -66,6 +66,3 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
 # atocs
 -------
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2023 Atocs Developers
